@@ -1,6 +1,6 @@
 # jsf-hs
 
-A JS-F*ck compiler written in Haskell.
+A jsf*ck compiler written in Haskell.
 
 ## Usage
 
