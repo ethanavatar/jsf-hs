@@ -48,4 +48,4 @@ main :: IO ()
 main = do
     args <- getArgs
     src <- readFile (head args)
-    writeFile (args !! 1) (concat (map char src))
+    print (concat (map char src))

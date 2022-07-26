@@ -1,4 +1,4 @@
-# JSF-hs
+# jsf-hs
 
 A JS-F*ck compiler written in Haskell.
 
@@ -11,5 +11,5 @@ $ ghc -o jsf jsf.hs
 
 And run with:
 ```bash
-$ ./jsf <input-file> <output-file>
+$ ./jsf input.js > output.js
 ```
